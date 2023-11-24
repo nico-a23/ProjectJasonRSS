@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programming Languages",
+    "home_page_url": "https://nico-a23.github.io/ProjectJasonRSS/",
+    "feed_url": "https://nico-a23.github.io/ProjectJasonRSS/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is Python",
+    "url": "https://nico-a23.github.io/ProjectJasonRSS/python.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, Java!</p>",
+    "url": "https://nico-a23.github.io/ProjectJasonRSS/java.html"
+    }
+    ]
+   }
